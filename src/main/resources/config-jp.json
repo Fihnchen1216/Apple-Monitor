@@ -1,0 +1,43 @@
+{
+  "appleTaskConfig": {
+    "cronExpressions": "*/12 * * * * ?",
+    "country": "JP",
+    "location": "197-0804",
+    "deviceCodeList": [
+      {
+        "deviceCode": "MYWG3J/A",
+        "storeWhiteList": [
+          "新宿",
+          "名古屋栄",
+          "銀座"
+        ],
+        "pushConfigs": [
+          {
+            "barkPushUrl": "",
+            "barkPushToken": "",
+            "barkPushSound": "glass.caf",
+            "feishuBotWebhooks": "",
+            "feishuBotSecret": ""
+          }
+        ]
+      },
+      {
+        "deviceCode": "MYWH3J/A",
+        "storeWhiteList": [
+          "新宿",
+          "名古屋栄",
+          "銀座"
+        ],
+        "pushConfigs": [
+          {
+            "barkPushUrl": "",
+            "barkPushToken": "",
+            "barkPushSound": "multiwayinvitation.caf",
+            "feishuBotWebhooks": "",
+            "feishuBotSecret": ""
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "appleTaskConfig": {
+    "cronExpressions": "*/12 * * * * ?",
+    "country": "CN",
+    "location": "广东 深圳 南山区",
+    "deviceCodeList": [
+      {
+        "deviceCode": "MYTM3CH/A",
+        "storeWhiteList": [
+          "益田假日"
+        ],
+        "pushConfigs": [
+          {
+            "barkPushUrl": "",
+            "barkPushToken": "",
+            "barkPushSound": "multiwayinvitation.caf",
+            "feishuBotWebhooks": "",
+            "feishuBotSecret": ""
+          }
+        ]
+      },
+      {
+        "deviceCode": "MYTP3CH/A",
+        "storeWhiteList": [
+          "益田假日"
+        ],
+        "pushConfigs": [
+          {
+            "barkPushUrl": "",
+            "barkPushToken": "",
+            "barkPushSound": "glass.caf",
+            "feishuBotWebhooks": "",
+            "feishuBotSecret": ""
+          }
+        ]
+      }
+    ]
+  }
+}
